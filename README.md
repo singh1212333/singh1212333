@@ -1,6 +1,6 @@
 <div id="header" align="center">  
   <h1>
-  Hey,I am Ravishankar Bhardwaj Singh
+  Hello , I am Ravishankar Kumar
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -24,8 +24,8 @@
   
 
 ### :man_technologist: About Me :
- 🧑‍💻I am a Full Stack web-Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  - :telescope: I'm sophomore at university institute of technology,THE UNIVERSITY OF BURDWAN. and I'm currently Learning Coding And web Devlopment.
+ 🧑‍💻I am a Full Stack web-Developer and Competitative Programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  - :telescope: I'm Studying at university institute of technology, The Unievrsity Of Burdwan.
 
 - :seedling: I’m interested in Competitive Coding, Web Devlopment, Machine Learning and Cloud computing and recent technologies.
 
