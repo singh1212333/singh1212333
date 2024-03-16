@@ -24,7 +24,7 @@
   
 
 ### :man_technologist: About Me :
- 🧑‍💻I am a Full Stack web-Developer and Competitative Programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ 🧑‍💻I am a Full Stack web-Developer and Competitive Programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - :telescope: I'm Studying at university institute of technology, The Unievrsity Of Burdwan.
 
 - :seedling: I’m interested in Competitive Coding, Web Devlopment, Machine Learning and Cloud computing and recent technologies.
